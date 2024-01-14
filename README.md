@@ -8,7 +8,7 @@ This repo is for my learnign process. Here i will publish concepts and code abou
 
 ## AI 🧠
 
-> Definition and quick summary
+> Artificial Intelligence is the capabilities of a software or machine to emulate inteligent behaviour, such as complex problem-solving.
 
 ## Machine Learning 🤖
 
