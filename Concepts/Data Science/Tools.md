@@ -2,6 +2,12 @@
 
 Here are some tools needed for this profession:
 
+## Python 🐍 and R 
+
+These programing lenguagues are the most popular in Data Scientist's circules. This because they have a great community and a lot of useful packegues and libraries such as Numpy, Pandas, Sckit-learn, etc.
+
+Python is a multiparadigm lenguage used in a lot of roles across tech industry. R has its focus in statistics.
+
 ## Jupyter notebooks 📓
 
 A Jupyter notebook is a "digital article" for scientist.
