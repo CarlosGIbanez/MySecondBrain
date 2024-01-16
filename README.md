@@ -12,4 +12,4 @@ This repo is for my learnign process. Here i will publish concepts and code abou
 
 ## Machine Learning 🤖
 
-> Definition and quick summary
+> Machine Learning, wich is part of AI, is the potential for a computer, software or machine of being capable of "learning" new and better ways of solving a problem.
