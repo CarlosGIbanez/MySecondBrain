@@ -4,7 +4,7 @@ This repo is for my learnign process. Here i will publish concepts and code abou
 
 ## Data Science 💼
 
-> Definition and quick summary
+> Data science is the discipline of discovering valuable insights from all kind of data. 
 
 ## AI 🧠
 
